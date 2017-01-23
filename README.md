@@ -12,6 +12,9 @@ the output is a count of the number of fault event patterns detected.
 
 In the Test folder, there are 3 test log files.  The expected results
 for:
+
 test01.log - 0 faults
+
 test02.log - 1 fault
+
 test03.log - 2 faults
