@@ -1,0 +1,5 @@
+C:\Users\Ralph\Documents\Projects\Reliable\EventLogProcessor\EventLogProcessor\bin\Release\EventLogProcessor.exe.config
+C:\Users\Ralph\Documents\Projects\Reliable\EventLogProcessor\EventLogProcessor\bin\Release\EventLogProcessor.exe
+C:\Users\Ralph\Documents\Projects\Reliable\EventLogProcessor\EventLogProcessor\bin\Release\EventLogProcessor.pdb
+C:\Users\Ralph\Documents\Projects\Reliable\EventLogProcessor\EventLogProcessor\obj\Release\EventLogProcessor.exe
+C:\Users\Ralph\Documents\Projects\Reliable\EventLogProcessor\EventLogProcessor\obj\Release\EventLogProcessor.pdb

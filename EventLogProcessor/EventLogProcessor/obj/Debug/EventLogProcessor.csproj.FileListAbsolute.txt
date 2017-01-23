@@ -1,0 +1,12 @@
+C:\Users\Ralph\Documents\Projects\Reliable\EventParserCounter\EventParserCounter\bin\Debug\EventParserCounter.exe.config
+C:\Users\Ralph\Documents\Projects\Reliable\EventParserCounter\EventParserCounter\bin\Debug\EventParserCounter.exe
+C:\Users\Ralph\Documents\Projects\Reliable\EventParserCounter\EventParserCounter\bin\Debug\EventParserCounter.pdb
+C:\Users\Ralph\Documents\Projects\Reliable\EventParserCounter\EventParserCounter\obj\Debug\EventLogProcessor.csprojResolveAssemblyReference.cache
+C:\Users\Ralph\Documents\Projects\Reliable\EventParserCounter\EventParserCounter\obj\Debug\EventParserCounter.exe
+C:\Users\Ralph\Documents\Projects\Reliable\EventParserCounter\EventParserCounter\obj\Debug\EventParserCounter.pdb
+C:\Users\Ralph\Documents\Projects\Reliable\EventLogProcessor\EventLogProcessor\obj\Debug\EventLogProcessor.csprojResolveAssemblyReference.cache
+C:\Users\Ralph\Documents\Projects\Reliable\EventLogProcessor\EventLogProcessor\bin\Debug\EventLogProcessor.exe.config
+C:\Users\Ralph\Documents\Projects\Reliable\EventLogProcessor\EventLogProcessor\bin\Debug\EventLogProcessor.exe
+C:\Users\Ralph\Documents\Projects\Reliable\EventLogProcessor\EventLogProcessor\bin\Debug\EventLogProcessor.pdb
+C:\Users\Ralph\Documents\Projects\Reliable\EventLogProcessor\EventLogProcessor\obj\Debug\EventLogProcessor.exe
+C:\Users\Ralph\Documents\Projects\Reliable\EventLogProcessor\EventLogProcessor\obj\Debug\EventLogProcessor.pdb
